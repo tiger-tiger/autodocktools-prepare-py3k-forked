@@ -1,5 +1,7 @@
+# Tools to generate partial charge (atomic charge) for receptors
+If you have lots of pdb, it is very convenient
 # AutoDockTools (Prepare subset) for Py3k
-
+the following are forked
 Subset of [AutoDockTools v1.5.7](http://autodock.scripps.edu/resources/adt), tailored just to run:
 - `prepare_receptor4.py`
 - `prepare_ligand4.py`
